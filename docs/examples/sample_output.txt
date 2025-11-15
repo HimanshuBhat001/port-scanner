@@ -1,0 +1,9 @@
+Scanning target: 192.168.1.1
+
+[OPEN]   Port  22 (SSH) → Risk: Low (encrypted, secure access)
+[OPEN]   Port  80 (HTTP) → Risk: Medium (unencrypted traffic)
+[CLOSED] Port 443
+[CLOSED] Port 110
+[CLOSED] Port 25
+
+Scan complete.
